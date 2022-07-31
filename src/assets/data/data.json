@@ -1,0 +1,9 @@
+{
+    "nombre": "Jorge Luis González",
+    "profesion": "Programados Junior",
+    "estudio": {
+        "nombre": "Universidad Nacional de Lomas de Zamora"
+    },
+
+    "ubicacion": "Buenos Aires (Argentina)"
+}
